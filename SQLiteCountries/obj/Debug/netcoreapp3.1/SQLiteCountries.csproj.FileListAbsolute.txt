@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\SQLiteCountries\SQLiteCountries\bin\Debug\netcoreapp3.1\SQLiteCountries.exe
+C:\Users\opilane\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\netcoreapp3.1\SQLiteCountries.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\netcoreapp3.1\SQLiteCountries.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\netcoreapp3.1\SQLiteCountries.AssemblyInfo.cs
